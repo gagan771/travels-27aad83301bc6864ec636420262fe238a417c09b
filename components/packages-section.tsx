@@ -11,12 +11,12 @@ import { MapPin, Users, Clock, Star } from "lucide-react"
 const packages = [
   {
     id: 1,
-    title: "Rishikesh Adventure Package",
-    image: "https://images.unsplash.com/photo-1593611771033-27d91265ab29?q=80&w=2072&auto=format&fit=crop",
+    title: "Rishikesh Packages Starting at just ₹3000",
+    image: "/6.png",
     location: "Rishikesh, Uttarakhand",
     duration: "3 Days / 2 Nights",
     groupSize: "2-8 people",
-    price: "₹12,999",
+    price: "₹3000",
     rating: 4.8,
     popular: true,
     description:
@@ -26,7 +26,7 @@ const packages = [
   {
     id: 2,
     title: "Nainital Lake Retreat",
-    image: "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=2070&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=400&h=300&auto=format&fit=crop",
     location: "Nainital, Uttarakhand",
     duration: "4 Days / 3 Nights",
     groupSize: "2-6 people",
