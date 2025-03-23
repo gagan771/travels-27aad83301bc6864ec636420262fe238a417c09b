@@ -7,7 +7,34 @@ const galleryImages = [
   { id: 1, src: "/1.png" },
   { id: 2, src: "/2.png" },
   { id: 3, src: "/3.png" },
-  { id: 4, src: "/4.png" },
+  { id: 4, src: "/49.png" },
+  { id: 5, src: "/50.png" },
+  
+  { id: 7, src: "/52.png" },
+  { id: 8, src: "/53.png" },  
+  { id: 9, src: "/54.png" },
+  { id: 10, src: "/55.png" },
+  { id: 11, src: "/56.png" },
+  { id: 12, src: "/57.png" },
+  { id: 13, src: "/58.png" },
+  { id: 14, src: "/59.png" },
+  { id: 15, src: "/60.png" },
+  
+  { id: 17, src: "/62.png" },   
+  { id: 18, src: "/63.png" },
+  { id: 19, src: "/64.png" },
+  { id: 20, src: "/65.png" },
+  { id: 21, src: "/66.png" },
+  { id: 22, src: "/67.png" },
+  { id: 23, src: "/68.png" },
+  { id: 24, src: "/69.png" },
+  { id: 25, src: "/70.png" },
+  { id: 26, src: "/71.png" },
+  { id: 27, src: "/72.png" },
+  { id: 28, src: "/73.png" },
+  { id: 29, src: "/74.png" },
+  
+  { id: 31, src: "/76.png" },
 ]
 
 // INSTAGRAM REELS - EDIT HERE
